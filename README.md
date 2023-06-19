@@ -1,10 +1,8 @@
 # SMS-Call-Bomber
-Merhabalar,
+You can use this application with Python 3.10 versions without any errors.
 
-Bu uygulamayı Python 3.10 sürümleri ile hatasız olarak kullanabilirsiniz.
-
-Öncelikle aşağıdaki kodu çalıştırarak gerekli olan lib'leri download ediyoruz.
+First of all, we download the necessary libs by running the code below.
 
 pip install -r requirements.txt
 
-Daha sonra py Bomber.py diyerek uygulamamızı açıyoruz ve isteğe göre SMS veya Call seçeneklerini girerek kullanıyoruz.
+Then we open our application with the py Bomber.py command and optionally we use it by entering SMS or Call options.
